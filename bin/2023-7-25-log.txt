@@ -1,0 +1,7 @@
+
+19:19:2 => first log message!
+19:19:2 => /home/xiaowei/mprpc/example/callee/friendservice.cc:main:42
+19:52:45 =>[error] first log message!
+19:52:45 =>[error] /home/xiaowei/mprpc/example/callee/friendservice.cc:main:42
+19:52:45 =>[info] server_name:FriendServiceRpc
+19:52:45 =>[info] method_name:GetFriendsList

@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/xiaowei/mprpc/build/src",
+  "command": "/usr/bin/g++  -I/home/xiaowei/mprpc/src/include -I/home/xiaowei/mprpc/example -g -o CMakeFiles/mprpc.dir/mprpcapplication.cc.o -c /home/xiaowei/mprpc/src/mprpcapplication.cc",
+  "file": "/home/xiaowei/mprpc/src/mprpcapplication.cc"
+},
+{
+  "directory": "/home/xiaowei/mprpc/build/src",
+  "command": "/usr/bin/g++  -I/home/xiaowei/mprpc/src/include -I/home/xiaowei/mprpc/example -g -o CMakeFiles/mprpc.dir/mprpcconfig.cc.o -c /home/xiaowei/mprpc/src/mprpcconfig.cc",
+  "file": "/home/xiaowei/mprpc/src/mprpcconfig.cc"
+},
+{
+  "directory": "/home/xiaowei/mprpc/build/src",
+  "command": "/usr/bin/g++  -I/home/xiaowei/mprpc/src/include -I/home/xiaowei/mprpc/example -g -o CMakeFiles/mprpc.dir/rpcheader.pb.cc.o -c /home/xiaowei/mprpc/src/rpcheader.pb.cc",
+  "file": "/home/xiaowei/mprpc/src/rpcheader.pb.cc"
+},
+{
+  "directory": "/home/xiaowei/mprpc/build/src",
+  "command": "/usr/bin/g++  -I/home/xiaowei/mprpc/src/include -I/home/xiaowei/mprpc/example -g -o CMakeFiles/mprpc.dir/rpcprovider.cc.o -c /home/xiaowei/mprpc/src/rpcprovider.cc",
+  "file": "/home/xiaowei/mprpc/src/rpcprovider.cc"
+},
+{
+  "directory": "/home/xiaowei/mprpc/build/src",
+  "command": "/usr/bin/g++  -I/home/xiaowei/mprpc/src/include -I/home/xiaowei/mprpc/example -g -o CMakeFiles/mprpc.dir/mprpcchannel.cc.o -c /home/xiaowei/mprpc/src/mprpcchannel.cc",
+  "file": "/home/xiaowei/mprpc/src/mprpcchannel.cc"
+},
+{
+  "directory": "/home/xiaowei/mprpc/build/src",
+  "command": "/usr/bin/g++  -I/home/xiaowei/mprpc/src/include -I/home/xiaowei/mprpc/example -g -o CMakeFiles/mprpc.dir/mprpccontroller.cc.o -c /home/xiaowei/mprpc/src/mprpccontroller.cc",
+  "file": "/home/xiaowei/mprpc/src/mprpccontroller.cc"
+},
+{
+  "directory": "/home/xiaowei/mprpc/build/src",
+  "command": "/usr/bin/g++  -I/home/xiaowei/mprpc/src/include -I/home/xiaowei/mprpc/example -g -o CMakeFiles/mprpc.dir/logger.cc.o -c /home/xiaowei/mprpc/src/logger.cc",
+  "file": "/home/xiaowei/mprpc/src/logger.cc"
+},
+{
+  "directory": "/home/xiaowei/mprpc/build/src",
+  "command": "/usr/bin/g++  -I/home/xiaowei/mprpc/src/include -I/home/xiaowei/mprpc/example -g -o CMakeFiles/mprpc.dir/zookeeperutil.cc.o -c /home/xiaowei/mprpc/src/zookeeperutil.cc",
+  "file": "/home/xiaowei/mprpc/src/zookeeperutil.cc"
+},
+{
+  "directory": "/home/xiaowei/mprpc/build/example/callee",
+  "command": "/usr/bin/g++  -I/home/xiaowei/mprpc/src/include -I/home/xiaowei/mprpc/example -g -o CMakeFiles/provider.dir/friendservice.cc.o -c /home/xiaowei/mprpc/example/callee/friendservice.cc",
+  "file": "/home/xiaowei/mprpc/example/callee/friendservice.cc"
+},
+{
+  "directory": "/home/xiaowei/mprpc/build/example/callee",
+  "command": "/usr/bin/g++  -I/home/xiaowei/mprpc/src/include -I/home/xiaowei/mprpc/example -g -o CMakeFiles/provider.dir/__/friend.pb.cc.o -c /home/xiaowei/mprpc/example/friend.pb.cc",
+  "file": "/home/xiaowei/mprpc/example/friend.pb.cc"
+},
+{
+  "directory": "/home/xiaowei/mprpc/build/example/caller",
+  "command": "/usr/bin/g++  -I/home/xiaowei/mprpc/src/include -I/home/xiaowei/mprpc/example -g -o CMakeFiles/consumer.dir/callfriendservice.cc.o -c /home/xiaowei/mprpc/example/caller/callfriendservice.cc",
+  "file": "/home/xiaowei/mprpc/example/caller/callfriendservice.cc"
+},
+{
+  "directory": "/home/xiaowei/mprpc/build/example/caller",
+  "command": "/usr/bin/g++  -I/home/xiaowei/mprpc/src/include -I/home/xiaowei/mprpc/example -g -o CMakeFiles/consumer.dir/__/friend.pb.cc.o -c /home/xiaowei/mprpc/example/friend.pb.cc",
+  "file": "/home/xiaowei/mprpc/example/friend.pb.cc"
+}
+]
